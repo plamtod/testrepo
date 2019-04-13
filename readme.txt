@@ -5,4 +5,4 @@ master initial
 feature 1
 feature 2
 
-master 3
+master 3q
